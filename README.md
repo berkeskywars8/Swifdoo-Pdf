@@ -222,4 +222,4 @@ SwifDoo PDF is provided as a complete free version with all features and updates
 Experience unparalleled PDF management with SwifDoo PDF. **Download now and unlock the full power of your PDFs!**
 
 ---
-**Last updated:** 2026-10-17 10:00:18 UTC
+**Last updated:** 2026-10-17 14:00:43 UTC
